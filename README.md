@@ -1,6 +1,6 @@
 # Prosperity child theme
 
-The prosperity child theme is a starter blank child theme for the [Prosperity WordPress theme](https://themesharbor.com/downloads/prosperity/).
+The Prosperity child theme is a starter blank child theme for the [Prosperity WordPress theme](https://themesharbor.com/downloads/prosperity/).
 
 ## Renaming _(optional)_
 
